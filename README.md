@@ -1,1 +1,1 @@
-## Hi, I'm Lanka Sriniwas
+## Hi, I'm Sriniwas

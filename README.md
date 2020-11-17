@@ -1,4 +1,4 @@
-## Hello there! My name is Sriniwas.👋
+## Hello there! My name is Lanka Sriniwas.👋
 
 <div align='center'>
 

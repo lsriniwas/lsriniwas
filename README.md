@@ -1,4 +1,16 @@
-## Hello there! My name is Lanka Sriniwas.👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lsriniwas.lsriniwas)
+# Hello there 👋
+
+
+
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=6aa6f8)
 
 <div align='center'>
 

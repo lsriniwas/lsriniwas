@@ -19,11 +19,5 @@
        <img src="https://media0.giphy.com/media/ZG6ntb6RclFZ7sjqcz/giphy.gif?cid=ecf05e47hujgsk3y9rqoju6o7kdxbka25lyefh1rg90hkx5k&rid=giphy.gif" alt="" width="100px">
     </div>
 
-<div align='center'>
 
-### My Github Stats
-
-![Sriniwas's github stats](https://github-readme-stats.vercel.app/api?username=lsriniwas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
-
- </div>
 
